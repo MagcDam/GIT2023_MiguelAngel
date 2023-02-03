@@ -12,5 +12,11 @@ this.matricula = matricula;
 
 }
 
+public void mostrarModelo() {
+
+System.out.println(modelo);
+
+}
+
 }
 
